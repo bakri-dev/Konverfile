@@ -8,13 +8,13 @@ Konverfile mengubah gambar dan membuat PDF sepenuhnya di perangkat pengguna. Tid
 
 ## Fitur
 
-- 🖼️ **Ubah format gambar** — JPG, PNG, dan WebP satu sama lain
-- 📐 **Kompres & resize** — atur kualitas dan lebar maksimum sekaligus
-- 📄 **Gambar ke PDF** — gabungkan banyak gambar jadi satu file PDF, ukuran A4 atau sesuai gambar
-- 📦 **Batch convert** — proses banyak file sekaligus
-- 🌙 **Dark mode** — toggle manual + otomatis ikut pengaturan sistem
-- 🔒 **Privat** — semua proses terjadi di browser, nol upload ke server
-- 🆓 **Tanpa daftar** — langsung pakai, tidak perlu akun
+- **Ubah format gambar** — JPG, PNG, dan WebP satu sama lain
+- **Kompres & resize** — atur kualitas dan lebar maksimum sekaligus
+- **Gambar ke PDF** — gabungkan banyak gambar jadi satu file PDF, ukuran A4 atau sesuai gambar
+- **Batch convert** — proses banyak file sekaligus
+- **Dark mode** — toggle manual + otomatis ikut pengaturan sistem
+- **Privat** — semua proses terjadi di browser, nol upload ke server
+- **Tanpa daftar** — langsung pakai, tidak perlu akun
 
 ---
 
